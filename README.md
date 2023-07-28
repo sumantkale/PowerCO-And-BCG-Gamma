@@ -1,5 +1,6 @@
 # PowerCO-And-BCG-Gamma
-Brief Overview
+Brief Overview :-
+
 The first stage is to establish the viability of such a model. For training your model you are provided with a dataset which includes features of SME customers in January 2016 as well as the information about whether or not they have churned by March 2016. In addition to that you have received the prices from 2015 for these customers. Of particular interest for the client is how you frame the problem for training.
 
 Given that this is the first time the client is resorting to predictive modelling, it is beneficial to leverage descriptive statistics and visualization for extracting interesting insights from the provided data before diving into the model.
